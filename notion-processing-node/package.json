@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@notionhq/client": "^0.4.11"
+    "@notionhq/client": "^0.4.11",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {},
   "scripts": {
